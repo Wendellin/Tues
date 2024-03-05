@@ -5,7 +5,7 @@ files:
   destination: /home/ec2-user/node-website
 - source: /package.json
   destination: /home/ec2-user/node-website
-- source: /public/
+- source: /public/html
   destination: /home/ec2-user/node-website/public/html
 - source: /scripts/requirements.txt
   destination: /home/ec2-user/scripts
